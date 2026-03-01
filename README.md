@@ -7,7 +7,7 @@ O projeto inclui:
 - Importação e limpeza de dados.
 - Análise descritiva e distribuição de churn.
 - Contagem de evasão por variáveis categóricas e numéricas.
-- Análise de correlação entre variáveis numéricas (extra opcional).
+- Análise de correlação entre variáveis numéricas.
 
 
 
